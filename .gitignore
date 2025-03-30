@@ -1,0 +1,4 @@
+venv
+.env
+SuccessReceipt.pdf
+ocr_results_2_SuccessReceipt
